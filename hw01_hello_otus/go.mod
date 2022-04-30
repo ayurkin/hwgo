@@ -1,4 +1,4 @@
-module github.com/ayurkin/hwgo/tree/master/hw01_hello_otus
+module github.com/ayurkin/hwgo/hw01_hello_otus
 
 go 1.16
 
